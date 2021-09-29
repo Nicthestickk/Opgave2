@@ -12,5 +12,11 @@ Exercise 4 fortæller hvor langt String: "whatever" er
 ## Prerequisites
 For at bruge koden skal du have:
 
-+ Sådan
++ En computer
+
++ Intellij idea
+
++ Forståelse af JAVA
+
+
 
