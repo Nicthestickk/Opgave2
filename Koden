@@ -1,0 +1,48 @@
+package Methods;
+
+public class Exercises {
+    // Exercise 1
+    //Here we are going to make three integers into parameters and then print the sum
+    public static void threeIntegers(int first, int second, int third) {
+        System.out.println(first + second + third);
+    }
+    // This is the main method
+    public static void main(String[] args){
+        int first = 100;
+        int second = 200;
+        int third = 300;
+        threeIntegers(first, second, third);
+        String Yes = "Yup";
+        threeLines(Yes);
+        double weight = 75;
+        double height = 175;
+        calbmi(weight, height);
+        String Upper = fullUppercase("This");
+        System.out.println(Upper);
+        String okay = "iteration";
+        howMany(okay);
+
+    }
+    // Exercise 2
+    // This method calls 3 print statements
+    public static void threeLines(String Yes) {
+        System.out.println(Yes);
+        System.out.println(Yes);
+        System.out.println(Yes);
+    }
+    // Exercise 3
+    // This method calculates weight and height into a BMI
+    public static void calbmi(double bmiW, double bmiH) {
+        System.out.println("Your BMI is: " + bmiW / (bmiH * 2));
+    }
+    // Exercise 4
+    public static String fullUppercase(String Change) {
+        return Change.toUpperCase();
+
+    }
+    // Exercise 5
+    public static void howMany(String whatever){
+        int length = whatever.length();
+        System.out.println(length);
+    }
+}
