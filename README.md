@@ -29,7 +29,7 @@ For at bruge koden skal du have:
 Hvis jeg er interesseret vil jeg tilade ændringer
 
 ## Contributors
-@all-contributors please add @Nichthestickk
+@Nichthestickk
 
 ## Contact
 Du kan få fat på mig via denne mail nkristensen1@gmail.com
