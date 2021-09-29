@@ -18,5 +18,14 @@ For at bruge koden skal du have:
 
 + Forståelse af JAVA
 
+## Contributing to Opgave 2
+
+1. Fork mit projekt
+2. Opret en branch
+3. Lav dine ændringer og commit dem
+4. Push til original branch
+5. Lav en pull request
+
+Hvis jeg er interesseret vil jeg tilade ændringer
 
 
